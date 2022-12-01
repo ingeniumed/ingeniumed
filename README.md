@@ -5,3 +5,5 @@
 - 🔭 I’m currently working at Automattic in the WordPress VIP division.
 
 - 📫 You can contact me via my [LinkedIn](https://ca.linkedin.com/in/ingeniumed)
+
+- Check out my [blog](https://gopalsmusings.wordpress.com/)
