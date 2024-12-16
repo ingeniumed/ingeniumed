@@ -6,4 +6,4 @@
 
 - 📫 You can contact me via my [LinkedIn](https://ca.linkedin.com/in/ingeniumed)
 
-- Check out my [blog](https://gopalsmusings.wordpress.com/)
+- Check out my [blog](https://gkrishnan.blog)
