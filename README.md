@@ -1,9 +1,9 @@
-👋 Hi, I'm **Gopal**.
+# Hi 👋
 
-- I currently live in **Sydney, Australia**.
+- I work at **Automattic** as a **Senior Software Developer**.
 
-- I’m currently working at **Automattic** as a **Senior Software Developer**.
-
-- You can contact me via my [LinkedIn](https://ca.linkedin.com/in/ingeniumed)
+- Contact me via my [LinkedIn](https://ca.linkedin.com/in/ingeniumed)
 
 - Check out my [blog](https://gkrishnan.blog)
+
+- Check out my [open source contributions](https://profiles.wordpress.org/ingeniumed/)
